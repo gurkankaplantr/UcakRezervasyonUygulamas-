@@ -1,6 +1,6 @@
-﻿using TunaTuranli.Models;
+﻿using UcakRezervasyon.Models;
 
-namespace TunaTuranli
+namespace UcakRezervasyon
 {
     public partial class Lokasyon : Form
     {

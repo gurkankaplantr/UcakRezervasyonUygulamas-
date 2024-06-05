@@ -1,4 +1,4 @@
-namespace TunaTuranli
+namespace UcakRezervasyon
 {
     public partial class Form1 : Form
     {
